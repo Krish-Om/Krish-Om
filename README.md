@@ -1,5 +1,5 @@
 # ✌️ About me:
-Krishom here, a Computer Science student at Samriddhi College, Nepal.🇳🇵. Fueled by a passion for building user-friendly software, I thrive in collaborative environments.<br><br>🧑🏻‍💻I'm passionate about building software solutions ️<br>👉Enjoy the challenges of adapting to new technologies ✨<br>💪Value good communication ️ and teamwork<br>🌱I'm always eager to learn and collaborate. <br>📫 How to reach me **Krishombasukala@gmail.com**
+Krishom here, a Computer Science student at Tribhuvan University, Nepal.🇳🇵. Fueled by a passion for building user-friendly software, I thrive in collaborative environments.<br><br>🧑🏻‍💻I'm passionate about building software solutions ️<br>👉Enjoy the challenges of adapting to new technologies ✨<br>💪Value good communication ️ and teamwork<br>🌱I'm always eager to learn and collaborate. <br>📫 How to reach me **Krishombasukala@gmail.com**
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@36Krishom79) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@krishom-basukala) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@36Krishom79)
