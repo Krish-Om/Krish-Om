@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Krishom
+# ✌️ About me:
 Krishom here, a Computer Science student at Samriddhi College, Nepal.🇳🇵. Fueled by a passion for building user-friendly software, I thrive in collaborative environments.<br><br>🧑🏻‍💻I'm passionate about building software solutions ️<br>👉I enjoy the challenges of adapting to new technologies ✨<br>💪I value good communication ️ and teamwork<br>🌱I'm always eager to learn and collaborate. <br>📫 How to reach me **Krishombasukala@gmail.com**
 
 ## 🌐 Socials
