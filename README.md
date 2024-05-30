@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Krishom
-<br><br>A Computer Science🎓 student enrolled at Samriddhi College, Lokanthali, Bhaktapur, Nepal 🇳🇵.<br><br>🧑🏻‍💻I'm passionate about building software solutions ️<br>👉I enjoy the challenges of adapting to new technologies ✨<br>💪I value good communication ️ and teamwork<br>🌱I'm always eager to learn and collaborate
+A Computer Science🎓 student enrolled at Samriddhi College, Lokanthali, Bhaktapur, Nepal 🇳🇵.<br><br>🧑🏻‍💻I'm passionate about building software solutions ️<br>👉I enjoy the challenges of adapting to new technologies ✨<br>💪I value good communication ️ and teamwork<br>🌱I'm always eager to learn and collaborate
 
 
 ## 🌐 Socials
