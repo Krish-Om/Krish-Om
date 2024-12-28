@@ -1,5 +1,11 @@
 # ✌️ About me:
-Krishom here, a Computer Science Student. Fueled by a passion for building user-friendly software, I thrive in collaborative environments.<br><br>🧑🏻‍💻I'm passionate about building software solutions ️<br>👉Enjoy the challenges of adapting to new technologies ✨<br>💪Value good communication ️ and teamwork<br>🌱I'm always eager to learn and collaborate. <br>📫 How to reach me **Krishombasukala@gmail.com**
+I'm Krishom Basukala, currently pursuing my Bachelor's in Computer Science and Information Technology 🧑‍🎓 at Samriddhi College, affiliated with Tribhuvan University, in Bhaktapur, Nepal 🇳🇵. I'm just beginning my exciting journey into Machine Learning 🤖 and actively building my foundational knowledge 🧠 in this field.
+<br><br>
+👨‍💻 Core Programming: C/C++, Java, JavaScript, Python<br>
+✨ Web Application Development: Experience building web apps with Java and JavaScript<br>
+💾 Database Management: Working knowledge of MySQL and PostgreSQL<br>
+📈 Focus: Expanding Python skills for AI/ML, data science, and data analysis<br>
+<br>
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@36Krishom79) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishom-basukala-b47a03235) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@36Krishom79)
